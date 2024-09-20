@@ -14,7 +14,7 @@ $P(E) = \frac{3}{6} = 0.5$
 
 ### Operations between events
 
-As we have seen, an **event** is the result of a random experiment and always has a probability associated with it. Often we may be interested in relating the probabilities between two events, and this is done through operations between events.
+As we have seen, an **event** is the result of a random experiment and always has a probability associated with it. Often we may be interested in relating the probabilities between two events, which is done through operations between events.
 
 #### Union of events
 
